@@ -1,0 +1,7 @@
+itca-terraform/endpoints.txt
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform/
+
